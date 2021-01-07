@@ -1,2 +1,2 @@
-# UC3-LO4-Assignment
-Hide items, Filter items using search bar
+# JavaScript-DOM-Tutorial
+All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
